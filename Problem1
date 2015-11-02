@@ -1,0 +1,6 @@
+One of the major problem that one faces is after installatopn of CMake , in which the source path is  CMakeLists not Found
+
+Solution:
+Set source path as C:\opencv\sources and then souce directory is written as C:\opencv:\build\x86\mingw and hen configured out then it gives the response that 
+mingw is not present , do you wan't to create it,after pressing yes it go for default constructor ,there we have to select Mingw makeFile
+and then it will create the List thereafter when screen goes  red press generate.
